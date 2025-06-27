@@ -36,3 +36,6 @@ coverage/
 *.local
 *.cache".env" 
 "*.wav" 
+
+
+myenv/
